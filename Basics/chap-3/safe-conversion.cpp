@@ -2,6 +2,15 @@
 #include <string>
 using namespace std;
 
+/*
+bool to char
+bool to int
+bool to double
+char to int
+char to double
+int to double
+*/
+
 int main()
 {
     char c = 'x';
