@@ -31,7 +31,7 @@ int main()
     cout << "Average temperature: " << sum / temps.size() << '\n';
 
     double sum = 0;
-    double high_temp = –1000;
+    double high_temp = -1000;
     double low_temp = 1000;
     int no_of_temps = 0;
     // initialize to impossibly low
